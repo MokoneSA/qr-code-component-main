@@ -16,7 +16,7 @@
     background-color: hsl(212, 45%, 89%);
 }
 
-.container2 {
+.sub-container {
     width: 360px;
     height: 530px;
     background-color:hsl(0, 0%, 100%);
@@ -35,7 +35,7 @@ img {
     margin-top: 10px;
 }
 
-h1 {
+h2 {
     font-size: 29px;
     font-weight: 700;
     text-align: center;
